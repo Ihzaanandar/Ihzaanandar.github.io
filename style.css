@@ -90,17 +90,17 @@
     }
 
     #home img {
-      width: 140px;
-      height: 140px;
+      width: 250px;
+      height: 250px;
       border-radius: 50%;
-      margin-bottom: 15px;
+      margin-bottom: 0px;
       object-fit: cover;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
 
     #home h1 {
       font-size: 2rem;
-      margin-bottom: 8px;
+      margin-bottom: 0px;
     }
 
     #home p {
@@ -116,7 +116,7 @@
       color: #334155;
     }
 
-    /* Skills - tampil seperti tombol */
+    /* Skills */
     #skills ul {
       padding: 0;
       margin: 0;
@@ -169,7 +169,7 @@
 
     .project-card img {
       width: 100%;
-      height: 140px;
+      height: 230px;
       object-fit: cover;
       border-radius: 5px;
       margin-bottom: 10px;
@@ -183,6 +183,7 @@
 
     .project-card p {
       font-size: 0.95rem;
+      text-align: justify;
       color: #334155;
       margin-bottom: 10px;
     }
@@ -203,7 +204,7 @@
       border-color: #fbbf24;
     }
 
-    /* Contact dengan ikon */
+    /* Contact */
     #contact p {
       font-size: 1rem;
       text-align: center;
